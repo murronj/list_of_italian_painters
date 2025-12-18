@@ -52,3 +52,9 @@ WHERE
          FILTER ( ?date > "1970-01-01T00:00:00-02:00"^^xsd:dateTime )
          ?book ?p ?v
   } }	
+
+
+
+
+
+Dans le langage SPARQL c'est dans WHERE qu'on voit la structure. 
