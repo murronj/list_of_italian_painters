@@ -5,8 +5,10 @@ Au sein de ce projet, nous partirons d'une liste prédéterminée de peintres it
 ## Questions de recherche
 - Y a-t-il une corrélation entre les courants artistiques et la période d'activité de l'individu ?
 - Y a-t-il une corrélation entre le statut socio-économique et l'appartenance à une institution ?
-- Y a-t-il une corrélation entre l'appartenance à une institution et l'affiliation à des groupes spécifiques ?
-- Quel sont les impacts de l'éducation reçue, ou pas reçu sur leur parcours professionnel ?
+- Y a-t-il une corrélation entre le statut social de base et l'accessibilité à la profession de peintre ?
+- Y a-t-il une corrélation entre l'appartenance à une institution et le courant artistique ? 
+- Y a-t-il une corrélation entre la formation et l'appartenance à une organisation ? 
+- Quels sont les impacts de l'éducation reçue, ou pas reçu sur leur parcours professionnel ?
 - Les peintres étudiés exercent-ils d'autres métiers ?
 - Quelle est la place des femmes peintres par rapport à celle des hommes ? Et y a-t-il une corrélation selon la période historique ?
 
