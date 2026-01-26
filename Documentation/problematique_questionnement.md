@@ -13,11 +13,11 @@ Au sein de ce projet, nous partirons d'une liste prédéterminée de peintres it
 - Quelle est la place des femmes peintres par rapport à celle des hommes ? Et y a-t-il une corrélation selon la période historique ?
 
 ## Aspects de l'information à collecter
-- Origines géographiques
+- Lieux géographiques (naissance, mort, sièges d'insitutions)
 - Education/Formation
-- Affiliation religieuse
 - Appartenance à des institutions 
 - Statut socio-économique familial
 - Affiliation à des courants artistiques, littéraire ou politique
-- Autres activités professionnelles
+- Activités professionnelles
 - Genre
+- Oeuvres principales
